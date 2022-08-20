@@ -1,0 +1,16 @@
+{
+    "name": "tsyganokigor/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tsyganokigor\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Igor Tsyganok",
+            "email": "ciganokigor@gmail.com"
+        }
+    ],
+    "require": {}
+}

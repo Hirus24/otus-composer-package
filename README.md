@@ -14,6 +14,6 @@ $composer requier Hirus24/otus-composer-package
 ## Использование
 ```php
 <?php
-$string_lenght = new StringLength();
+$string_length = new StringLength();
 echo  $string_lenght->getLength('измеряемый текст');
 ```
