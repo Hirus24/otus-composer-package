@@ -8,6 +8,6 @@ class StringLength
 {
     public function getLength(string $sl): int
     {
-        return strlen ($sl);
+        return mb_strlen ($sl);
     }
 }
