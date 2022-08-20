@@ -1,0 +1,5 @@
+#Project files
+vendor
+composer.lock
+
+#Other
